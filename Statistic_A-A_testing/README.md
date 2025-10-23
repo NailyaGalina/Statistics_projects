@@ -25,7 +25,12 @@ Python (pandahouse, matplotlib, seaborn, scipy, hashlib), ClickHouse.
 **Результат:**  
 Распределение получившихся p-value является примерно равномерным, доля p-value ниже порога значимости составляет 0.044. Это примерно столько, сколько мы ожидаем. Значит, система сплитования работает корректно.  
 
+Ознакомиться с файлом решения можно здесь: **[A-A_testing](https://github.com/NailyaGalina/Statistic_A-A_testing/blob/main/A-A%20testing.ipynb)**  
+
 ![скриншот](Screenshot.png)
 
-Ознакомиться с файлом решения можно здесь: **[A-A_testing](https://github.com/NailyaGalina/Statistic_A-A_testing/blob/main/A-A%20testing.ipynb)**
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
 
