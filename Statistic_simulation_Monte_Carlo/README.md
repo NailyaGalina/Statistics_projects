@@ -32,3 +32,7 @@ Python (pandahouse, pandas, numpy, seaborn, scipy, tqdm), ClickHouse.
 
 Ознакомиться с файлом решения можно здесь: **[Симуляция Монте-Карло]( https://github.com/NailyaGalina/Statistic_simulation_Monte_Carlo-/blob/main/Simulation_Monte_Carlo.ipynb)**
 
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
